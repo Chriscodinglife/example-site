@@ -40,4 +40,4 @@ npm i -D prettier prettier-plugin-tailwindcss
 
 - Tailwind Icons: https://heroicons.com/
 
-50:32
+1:17:04
