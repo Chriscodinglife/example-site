@@ -4,3 +4,16 @@ export enum SelectedPage {
   OurClasses = "ourclasses",
   ContactUs = "contactus",
 }
+
+export interface BenefitType {
+  icon: JSX.Element;
+  title: string;
+  description: string;
+}
+
+// ? means its optional and it might not exist
+export interface ClassType {
+  name: string;
+  description?: string;
+  image: string;
+}

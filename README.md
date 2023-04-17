@@ -31,6 +31,9 @@ npm i -D typescript @types/react-anchor-link-smooth-scroll@1.0.2 @types/node
 To install Tailwind Dev dependencies:
 npm i -D prettier prettier-plugin-tailwindcss
 
+How to get React Hook Form
+`npm i react-hook-form`
+
 ### Some useful VS Code extensions and websites
 
 - Prettier: https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode
@@ -39,5 +42,3 @@ npm i -D prettier prettier-plugin-tailwindcss
 - Tailwind CSS Intellisense: https://marketplace.visualstudio.com/items?itemName=bradlc.vscode-tailwindcss
 
 - Tailwind Icons: https://heroicons.com/
-
-1:37:00
